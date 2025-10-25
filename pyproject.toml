@@ -1,0 +1,25 @@
+[project]
+name = "ivythefawn-tool"
+version = "0.0.1"
+description = "✨ A set of practical gadgets"
+authors = [
+  { name = "ioitaaa", email = "xyfxh106@gmail.com" },
+]
+readme = "README.md"
+license = { text = "GPL-3.0" }
+requires-python = ">=3.9"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/ioit-aaa/mkdirp"
+Issues = "https://github.com/ioit-aaa/mkdirp/issues"
+
+[project.scripts]
+mkdirp = "mkdirp.cli:main"
+
+[tool.setuptools]
+packages = ["mkdirp"]
+license-files = ["LICENSE"]
