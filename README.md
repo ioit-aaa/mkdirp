@@ -7,11 +7,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/ioit-aaa/mkdirp?style=for-the-badge)
 ![PyPI - License](https://img.shields.io/pypi/l/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=%23ffffff)
 ![PyPI - Version](https://img.shields.io/pypi/v/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=%23ffffff)
-![PyPI - Downloads](https://img.shields.io/pypi/dd/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=%23ffffff)
 ![PyPI - Format](https://img.shields.io/pypi/format/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=%23ffffff)
 ![PyPI - Implementation](https://img.shields.io/pypi/implementation/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=%23ffffff)
-![PyPI - Status](https://img.shields.io/pypi/status/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=%23ffffff)
-![PyPI - Types](https://img.shields.io/pypi/types/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=%23ffffff)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=%23ffffff)
 
 ✨ A set of practical gadgets
