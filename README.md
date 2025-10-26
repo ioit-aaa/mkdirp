@@ -22,3 +22,6 @@ If the conditions are met, type the following command in the command line and pr
 ```bash
 pip install ivythefawn-tool
 ```
+
+### donation
+Thank you for your enthusiasm, this is free software, donations are not accepted, maybe you can donate money to the children in the mountains, so that we will be more motivated to actively maintain this project.
