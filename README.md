@@ -1,16 +1,16 @@
 <div align="center">
 
 # ivythefawn-tool
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/ioit-aaa/mkdirp?style=for-the-badge&labelColor=181825&color=a6e3a1)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/ioit-aaa/mkdirp?style=for-the-badge&labelColor=181825&color=f38ba8)
-![GitHub License](https://img.shields.io/github/license/ioit-aaa/mkdirp?style=for-the-badge&labelColor=181825&color=89b4fa)
-![GitHub Repo stars](https://img.shields.io/github/stars/ioit-aaa/mkdirp?style=for-the-badge&labelColor=181825&color=cba6f7)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/ioit-aaa/mkdirp?style=flat&labelColor=1e2030&color=8aadf4)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/ioit-aaa/mkdirp?style=flat&labelColor=1e2030&color=ed8796)
+![GitHub License](https://img.shields.io/github/license/ioit-aaa/mkdirp?style=flat&labelColor=1e2030&color=a6da95)
+![GitHub Repo stars](https://img.shields.io/github/stars/ioit-aaa/mkdirp?style=flat&labelColor=1e2030&color=c6a0f6)
 
-![PyPI - License](https://img.shields.io/pypi/l/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=cdd6f4&labelColor=181825&color=89b4fa)
-![PyPI - Version](https://img.shields.io/pypi/v/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=cdd6f4&labelColor=181825&color=a6e3a1)
-![PyPI - Format](https://img.shields.io/pypi/format/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=cdd6f4&labelColor=181825&color=fab387)
-![PyPI - Implementation](https://img.shields.io/pypi/implementation/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=cdd6f4&labelColor=181825&color=f9e2af)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ivythefawn-tool?style=for-the-badge&logo=PyPI&logoColor=cdd6f4&labelColor=181825&color=cba6f7)
+![PyPI - License](https://img.shields.io/pypi/l/ivythefawn-tool?style=flat&logo=PyPI&logoColor=cad3f5&labelColor=1e2030&color=8aadf4)
+![PyPI - Version](https://img.shields.io/pypi/v/ivythefawn-tool?style=flat&logo=PyPI&logoColor=cad3f5&labelColor=1e2030&color=a6da95)
+![PyPI - Format](https://img.shields.io/pypi/format/ivythefawn-tool?style=flat&logo=PyPI&logoColor=cad3f5&labelColor=1e2030&color=f5a97f)
+![PyPI - Implementation](https://img.shields.io/pypi/implementation/ivythefawn-tool?style=flat&logo=PyPI&logoColor=cad3f5&labelColor=1e2030&color=eed49f)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ivythefawn-tool?style=flat&logo=PyPI&logoColor=cad3f5&labelColor=1e2030&color=c6a0f6)
 
 ✨ A set of practical gadgets
 </div>
